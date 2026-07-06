@@ -2,7 +2,7 @@
 ### Python Developer | Django Developer | BSIT Student
 🚀 Building Scalable Web Applications
 
-🌐 Portfolio: https://super-melba-f29b83.netlify.app
+🌐 Portfolio: https://m-abdullah-dev.netlify.app
 
 ---
 ## 📫 Connect With Me
